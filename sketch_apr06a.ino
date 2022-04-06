@@ -13,7 +13,7 @@ void setup(){
   delay(1000);//Wait before accessing Sensor
  
 }//end "setup()"
- //check
+ 
 void loop(){
   //Start of Program 
  
